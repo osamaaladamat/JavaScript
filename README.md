@@ -1,1 +1,36 @@
 # JavaScript
+1-Write a JavaScript program to display the current day and time in the following format.
+Today is : Tuesday.
+Current time is : 10 PM : 30 : 38
+
+
+2-Write a JavaScript program to calculate number of days left until next Eid ALfiter
+
+3-Write a JavaScript function to find the area of a triangle where lengths of the three of its sides are 5, 6, 7
+
+4-Write a JavaScript function that reverse a number.
+Sample Data and output:
+Example x = 32243;
+Expected Output: 34223
+
+5-Write a JavaScript program to calculate number of days left until next Eid ALfiter
+
+6-Write a JavaScript program to get the difference between a given number and 13, if the number is greater than 13 return double the absolute difference.
+
+7-Write a JavaScript function to get the first element of an array. Passing a parameter 'n' will return the first 'n' elements of the array
+EX: 
+console.log(first([7, 9, 0, -2]));
+console.log(first([],3));
+console.log(first([7, 9, 0, -2],3));
+console.log(first([7, 9, 0, -2],6));
+console.log(first([7, 9, 0, -2],-3));
+Expected Output :
+7
+[]
+[7, 9, 0]
+[7, 9, 0, -2]
+[]
+
+6-Write a JavaScript program to calculate multiplication and division of two numbers (input from user)
+https://www.w3resource.com/w3r_images/sample-form.png
+
